@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumar06924&label=Profile%20views&color=0e75b6&style=flat" alt="amankumar06924" /> </p>
 
 - 👷 <samp>Currently pursuing B.Tech in CSE(AI)(2024-2028) from Chhattisgarh Swami Vivekanand Technical University
-- 💬 <samp>Ask me about C/C++/Competitive programming/Html/CSS/Js/Python
+- 💬 <samp>Ask me about C/C++/Competitive programming/Html/CSS/Js/react.js/Tailwind-CSS/Python
 - 🌱 <samp>I’m currently learning -------------
 - ⚡ <samp>Fun fact: Nothing
 - 📫 <samp>How to reach me amn12966966@gmail.com
