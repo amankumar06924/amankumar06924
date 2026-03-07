@@ -4,7 +4,7 @@
 
 - 👷 <samp>Currently pursuing B.Tech in CSE(AI)(2024-2028) from Chhattisgarh Swami Vivekanand Technical University
 - 💬 <samp>Ask me about C/C++/Competitive programming/Html/CSS/Js/react.js/Tailwind-CSS/Python
-- 🌱 <samp>I’m currently learning -------------
+- 🌱 <samp> currently learning: Everything that makes me excited.
 - ⚡ <samp>Fun fact: Nothing
 - 📫 <samp>How to reach me amn12966966@gmail.com
 
