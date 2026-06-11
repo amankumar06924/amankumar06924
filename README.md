@@ -47,4 +47,6 @@
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=amankumar06924&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar06924&layout=compact&theme=radical) 
+
 ---
