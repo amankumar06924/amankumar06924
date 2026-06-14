@@ -1,5 +1,6 @@
 <h1 align="center">Hey Everyone! 👋, I'm Aman kumar</h1>
-<h3 align="center">Competitive Programmer | Web Developer | Problem Solver</h3>
+<!-- <h3 align="center">Competitive Programmer | Web Developer | Problem Solver</h3> -->
+<h3 align="center">Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumar06924&label=Profile%20views&color=0e75b6&style=flat" alt="amankumar06924" /> </p>
 
 - 💡 <samp> Passionate about **Competitive Programming** and **Web Development**  
